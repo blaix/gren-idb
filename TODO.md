@@ -1,3 +1,4 @@
 - [ ] Follow https://blog.logrocket.com/using-indexeddb-complete-guide/ to kick things off
 - [ ] Continue with https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API, following the base API as closely as possible
 - [ ] Migrations / upgrading the db version
+- [ ] Offline-first Gren PWA example
